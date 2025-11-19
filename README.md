@@ -1,7 +1,4 @@
-Here is a **clean, professional GitHub README.md** for your *AWS Data Engineering Capstone (Local Implementation)*.
-You can copy-paste directly into your GitHub repo.
 
----
 
 # 🚀 AWS Data Engineering Capstone – Local Implementation
 
@@ -184,4 +181,5 @@ python scripts/duckdb_queries.py
 ```bash
 python scripts/visualize.py
 ```
+
 
